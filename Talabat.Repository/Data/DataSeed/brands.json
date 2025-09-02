@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "Name": "Starbucks"
+    },
+    {
+        "Id": 2,
+        "Name": "Costa"
+    },
+    {
+        "Id": 3,
+        "Name": "Cilantro"
+    },
+    {
+        "Id": 4,
+        "Name": "TBS"
+    },
+    {
+        "Id": 5,
+        "Name": "On The Run"
+    },
+    {
+        "Id": 6,
+        "Name": "Caribou"
+    },
+    {
+        "Id": 7,
+        "Name": "Krispy Kreme"
+    }
+]
